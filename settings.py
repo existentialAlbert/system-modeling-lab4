@@ -1,0 +1,10 @@
+from typing import Final
+
+GAS_TANKS_NUMBER: int = 5
+CASHIERS_NUMBER: int = 1
+
+DEVIATION: Final[int] = 10
+AVERAGE_SERVICE_TIME: Final[int] = 45
+AVERAGE_CASHIER_SERVICE_TIME: Final[int] = 45
+AVERAGE_FILL_UP_TANK_SERVICE_TIME: Final[int] = 600
+AVERAGE_TIME_BETWEEN_TASKS: Final[int] = 45
